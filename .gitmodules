@@ -1,0 +1,6 @@
+[submodule "test-ms1"]
+	path = test-ms1
+	url = https://github.com/asye5989/test-ms1
+[submodule "test-ms2"]
+	path = test-ms2
+	url = https://github.com/asye5989/test-ms2
